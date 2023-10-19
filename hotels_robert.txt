@@ -1,0 +1,59 @@
+"Marriott Marquis","149",300,575,0,0
+"Hilton Americas","140",400,629,0,0
+"Hyatt Regency Downtown","140",335,350,20,0
+"Doubletree Downtown","139",150,100,0,0
+"The Whitehall","150",100,100,0,0
+"JW Marriott Downtown","169",60,60,0,0
+"Residence Inn Downtown","145",0,125,0,0
+"Courtyard Downtown","145",0,125,0,0
+"Springhill Suites Downtown","145",0,125,0,0
+"The Magnolia Hotel","149",50,60,0,0
+"Four Seasons Hotel","149",50,20,80,0
+"Holiday Inn Express & Suites Downtown","139",30,40,0,0
+"Holiday Inn Downtown","149",90,13,6,2
+"Embassy Suites Downtown","189",0,0,100,50
+"Hampton Inn Downtown","169",50,75,0,0
+"Homewood Suites Downtown","175",50,10,0,0
+"Le Meridien","149",60,55,0,0
+"Aloft Houston Downtown","170",100,25,0,0
+"JW Marriott Galleria","149",120,160,140,0
+"Hilton Garden Inn Galleria","145",0,60,40,0
+"Hyatt Regency Galleria","149",120,100,0,0
+"Hyatt Place Galleria","149",90,50,0,0
+"Westin Galleria","149",100,230,0,0
+"Westin Oaks Galleria","149",100,170,0,0
+"Hotel Derek Galleria","155",50,65,85,0
+"Royal Sonesta Galleria","149",115,195,40,0
+"Doubletree Suites Galleria","145",63,49,96,143
+"Hampton Inn Galleria","140",0,50,42,0
+"Homewood Suites Galleria","165",0,0,72,20
+"Courtyard Galleria","149",0,80,0,0
+"Residence Inn Galleria","155",0,0,70,0
+"Marriott West Loop Galleria","145",0,105,70,0
+"Aloft Galleria","135",70,30,0,0
+"Hilton Post Oak Galleria","130",29,116,0,0
+"Sheraton Suites Galleria","149",37,48,120,0
+"Hyatt House Galleria","150",0,18,65,0
+"Embassy Suites Galleria","170",0,95,0,25
+"Crowne Plaza Galleria Area","145",33,70,0,0
+"Hilton Galleria Area","115",55,125,0,0
+"Sonesta ES Suites","149",0,21,0,8
+"Wyndham Medical Center Suites","149",50,145,0,0
+"Marriott Medical Center","140",50,50,0,0
+"Hilton Medical Plaza","145",52,70,0,0
+"Holiday Inn NRG","129",68,144,0,0
+"Crowne Plaza NRG","129",130,425,0,0
+"Springhill Suites NRG","145",50,50,0,0
+"Holiday Inn Express Hotel Houston Medical Center","139",11,29,0,0
+"Staybridge Suites Houston Medical Center","159",0,0,45,0
+"Doubletree Suites Greenway Plaza","129",75,150,0,0
+"Crowne Plaza River Oaks/Greenway Plaza","127",75,200,0,0
+"Four Points Greenway Plaza","127",80,25,0,0
+"Marriott Westchase","149",100,250,0,0
+"Hilton Westchase","149",100,75,0,0
+"Omni Houston Westside","125",185,190,0,0
+"Sheraton Houston Brookhollow","139",100,150,0,0
+"Wyndham Houston Energy Corridor","129",86,125,0,0
+"Unassigned/Outside Block",,,,,
+"Doubletree Hobby Airport","149",75,75,0,0
+"Marriott South at Hobby","149",75,122,0,0
